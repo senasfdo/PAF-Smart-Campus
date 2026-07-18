@@ -1,0 +1,26 @@
+spring.application.name=demo
+server.port=8084
+spring.datasource.url=
+spring.datasource.username=root
+spring.datasource.password=
+spring.jpa.hibernate.ddl-auto=update
+spring.jpa.show-sql=true
+
+spring.security.oauth2.client.registration.google.client-id=
+spring.security.oauth2.client.registration.google.client-secret=
+spring.security.oauth2.client.registration.google.scope=profile,email
+
+jwt.secret=verysecretkeyverysecretkeypasindupiyumalsliitpafassignment
+jwt.expiration-ms=3600000
+
+admin.email=
+student.email=
+lecturer.email=
+technician.email=
+manager.email=
+
+# Cloudinary Configuration
+cloudinary.cloud-name=
+cloudinary.api-key=
+cloudinary.api-secret=
+
